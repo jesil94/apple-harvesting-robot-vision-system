@@ -1,9 +1,12 @@
 # apple-harvesting-robot-vision-system
 creating a vision system for apple harvesting robot using YOLO algorithm
 # stepsto develop a custom detector
-Create yolov4 and training folders in your google drive
-Mount drive, link your folder and navigate to the yolov4 folder
-Clone the Darknet git repository
+
+1.Create yolov4 and training folders in your google drive
+
+2.Mount drive, link your folder and navigate to the yolov4 folder
+
+3.Clone the Darknet git repository
 Create & upload the files we need for training ( i.e. “obj.zip” , “yolov4- custom.cfg”, “obj.data”, “obj.names” and “process.py” ) to your drive
 Make changes in the Makefile to enable OPENCV and GPU
 Run make command to build darknet
