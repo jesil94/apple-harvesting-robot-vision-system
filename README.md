@@ -1,4 +1,4 @@
-# apple-harvesting-robot-vision-system
+# apple-harvesting-robot-vision-system using YOLOv4
 creating a vision system for apple harvesting robot using YOLO algorithm
 # stepsto develop a custom detector
 
