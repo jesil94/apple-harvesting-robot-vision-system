@@ -10,11 +10,11 @@ creating a vision system for apple harvesting robot using YOLO algorithm
 
 # 4.Create & upload the files we need for training ( i.e. “obj.zip” , “yolov4- custom.cfg”, “obj.data”, “obj.names” and “process.py” ) to your drive
 # Data set construction 
-Single object with no occlusion
-Multiple objects with occlusion
-Clusters of apples
-Illumination variation
-Shading conditions
+Single object with no occlusion,
+Multiple objects with occlusion,
+Clusters of apples,
+Illumination variation,
+Shading conditions,
 Multiple objects with or without occlusion
 
 
