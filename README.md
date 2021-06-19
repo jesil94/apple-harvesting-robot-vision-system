@@ -1,8 +1,11 @@
-# apple-harvesting-robot-vision-system using YOLOv4
+# vision system for apple harvesting robot YOLOv4
 creating a vision system for apple harvesting robot using YOLO algorithm
 # steps to develop a custom detector
 
 # 1.Create yolov4 and training folders in your google drive
+received gpu
+![image](https://user-images.githubusercontent.com/84291100/122655101-d6dfd600-d104-11eb-984f-62ff5af4d259.png)
+
 
 # 2.Mount drive, link your folder and navigate to the yolov4 folder
 
