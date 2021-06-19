@@ -34,8 +34,10 @@ creating a vision system for apple harvesting robot using YOLO algorithm
 
 # Test results on webcam images
 ![download (11)](https://user-images.githubusercontent.com/84291100/119716958-8f726c80-be1a-11eb-8aec-34f000921e47.png)
-![download (6)](https://user-images.githubusercontent.com/84291100/119716993-9bf6c500-be1a-11eb-966c-6469cfe3d1e0.png)
-
+![image](https://user-images.githubusercontent.com/84291100/122654905-4ce33d80-d103-11eb-969c-638044b78fc5.png)
+Testing on a higher illumination condtion
+![image](https://user-images.githubusercontent.com/84291100/122654923-6ab0a280-d103-11eb-8239-5584d5c2c60d.png)
+Testing on a highershading condtion
 
 # Test results on videos
 
